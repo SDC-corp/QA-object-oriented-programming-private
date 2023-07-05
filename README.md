@@ -6,3 +6,4 @@ new - 1
 commit - 2
 push - 3
 merge - 4
+practice - 5
