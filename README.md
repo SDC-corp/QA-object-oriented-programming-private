@@ -2,5 +2,6 @@
 
 push 
 last
-new
-commit
+new - 1
+commit - 2
+push - 3
