@@ -23,9 +23,4 @@ push 110
 push 113
 push 114 
 push 117
-push 120
-push 121
-push 123
-push 125
-push 127
-push 129
+push 130
